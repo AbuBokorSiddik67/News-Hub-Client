@@ -16,5 +16,3 @@ Some information:
 5. Payment System etc.
 
 # News-Hub_Client
-# News-Hub_Client
-# News-Hub-Client
