@@ -13,7 +13,6 @@ const EditArticle = () => {
 	const navigate = useNavigate();
 	const axiosSecure = useAxiosSecure();
 	const { user } = useAuth(); // Get logged-in user info
-
 	const {
 		register,
 		handleSubmit,
