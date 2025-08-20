@@ -1,5 +1,6 @@
 
-# News-Hub_Client
+# News-Hub_Client= https://github.com/AbuBokorSiddik67/News-Hub-Client
+# News-Hub_Server=https://github.com/AbuBokorSiddik67/News-Hub-Server
 
 Admin_Email= programming@hero.com
 Admin_Pass= Abc@123
